@@ -1,5 +1,3 @@
-# ExportImport
-
 # What is Export Import data utility?
 Exporting data from one database and import to another is no longer painfully. Calling simply the tool is generating the insert statements which you can use in another database to be execute. 
 
